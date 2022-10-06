@@ -21,7 +21,7 @@ p {
 form {
   margin-bottom: 25px;
   padding: 15px;
-  background-color: #87D37C;
+  background-color: #add8ff;
   display: inline-block;
   width: 100%;
   max-width: 340px;
@@ -54,6 +54,6 @@ input[type=submit]:hover {
 code {
   font-family: monospace;
   font-size: 1.2em;
-  background-color: #FFFEC4;
+  background-color: #a2bfdb;
   padding: 2px;
 }
